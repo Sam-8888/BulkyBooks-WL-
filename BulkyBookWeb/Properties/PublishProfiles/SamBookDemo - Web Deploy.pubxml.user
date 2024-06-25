@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAMAGDMDIdUkmw5z8POmvjRQAAAAACAAAAAAAQZgAAAAEAACAAAACDkTsn1saV9tH5FMEVbgM6uR37LZWDyVg8hIkEZPSA8wAAAAAOgAAAAAIAACAAAACYnHWwrt3ruMaWxwLFUEJbgVw0rvj8gKYRpDPy0LuG84AAAAC+uIJwwiEvGdFaQTPtM8K9p6EELaVsxYF6QmjmDU9g1/S4Mx3Zy6qlUCD1T1KhticgaIKAwvO1whNYNc0LkDZMA95BEVGC065erI+6AY9gbGzPzv1YqHbZRCik9j8lNAf+A4Wdlg0QAv0eOm82Gj0ix5Dwc+IMEO55cDyp0i9Dc0AAAADPdCk7ED8mdKlulsrlf67lLmRrqNs73FKZ9l9Su+W8xNys62RDM5zKWH3V9aIoQudYFh8sC6QEynHm048dhX8C</EncryptedPassword>
+    <History>True|2022-06-19T22:26:35.8422906Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:samuelserver.database.windows.net,1433%3bInitial Catalog=BulkBookTest%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=Qwe_1234%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
